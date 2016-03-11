@@ -1,9 +1,11 @@
-package ca.bradleyhaveman.calculator;
-
 /**
- * Created by Bradley on 3/10/2016.
+ * Author: Bradley Haveman
+ * File Name: SplashActivity
+ * Date: March 11th
  */
 
+
+package ca.bradleyhaveman.calculator;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

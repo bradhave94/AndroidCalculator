@@ -1,3 +1,9 @@
+/**
+ * Author: Bradley Haveman
+ * File Name: MainActivity
+ * Date: March 11th
+ */
+
 package ca.bradleyhaveman.calculator;
 
 import android.os.Bundle;
