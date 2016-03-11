@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="sevenText">7</string>
+    <string name="eightText">8</string>
+    <string name="nineText">9</string>
+    <string name="devideText">/</string>
+    <string name="fourText">4</string>
+    <string name="fiveText">5</string>
+    <string name="sixText">6</string>
+    <string name="multiplyText">*</string>
+    <string name="oneText">1</string>
+    <string name="twoText">2</string>
+    <string name="threeText">3</string>
+    <string name="minusText">-</string>
+    <string name="decimalText">.</string>
+    <string name="zeroText">0</string>
+    <string name="equalsText">=</string>
+    <string name="plusText">+</string>
+    <string name="delText">Del</string>
+    <string name="clearText">Clear</string>
+    <string name="percentText">%</string>
+</resources>
